@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dependencies": {
+    "net8.0": {
+      "NLog": {
+        "type": "Direct",
+        "requested": "[5.3.3, )",
+        "resolved": "5.3.3",
+        "contentHash": "cy0+hlrUbYu+6mgUsILqCcqlJ2Csqyt2lm8y9T9kE8nhgwl8SvR+LM21QX4nmzFCPiowbrTFYxNF8+gWpy7/HQ=="
+      }
+    }
+  }
+}
