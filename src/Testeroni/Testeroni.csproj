@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <PackageReference Include="NLog" />
+    <PackageReference Include="Newtonsoft.Json" />
   </ItemGroup>
 </Project>
